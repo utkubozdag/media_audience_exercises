@@ -1,0 +1,13 @@
+- tab: "Basic Tests"
+  contexts:
+  - testcases:
+    - expression: "add_numbers(3, 5)"
+      return: 8
+    - expression: "add_numbers(10, -2)"
+      return: 8
+    - expression: "add_numbers(0, 0)"
+      return: 0
+    - expression: "add_numbers(-5, -3)"
+      return: -8
+    - expression: "add_numbers(100, 200)"
+      return: 300

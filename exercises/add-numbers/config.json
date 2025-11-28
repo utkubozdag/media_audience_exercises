@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "en": "Add Two Numbers"
+    }
+  },
+  "evaluation": {
+    "handler": "r"
+  },
+  "programming_language": "r",
+  "access": "public"
+}
