@@ -8,5 +8,10 @@
     "handler": "r"
   },
   "programming_language": "r",
-  "access": "public"
+  "access": "public",
+  "internals": {
+    "token": "UGEsJEShRNu-7mpY97nX-N8e7c5aVda7FBGenXnIScmRsgX3NMiiXAphFsIvBW3i",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
 }
