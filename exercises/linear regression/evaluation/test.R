@@ -21,5 +21,5 @@ context({
               2)
   })
 }, preExec = {
-  data <- read.csv("utkubozdag/media_audience_exercises/exercises/linear regression/description/workdir/spiral_of_silence_dataset.csv")
+  data <- read.csv("spiral_of_silence_dataset.csv")
 })
