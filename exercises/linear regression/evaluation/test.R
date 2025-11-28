@@ -21,5 +21,5 @@ context({
               2)
   })
 }, preExec = {
-  data <- read.csv("spiral_of_silence_dataset.csv")
+  data <- read.csv("workdir/evaluation/spiral_of_silence_dataset.csv")
 })
