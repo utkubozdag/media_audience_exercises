@@ -1,0 +1,12 @@
+{
+  "description": {
+    "names": {
+      "en": "Linear Regression Analysis"
+    }
+  },
+  "evaluation": {
+    "handler": "r"
+  },
+  "programming_language": "r",
+  "access": "public"
+}
